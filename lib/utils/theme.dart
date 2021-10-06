@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:plantshop/utils/color.dart';
 
-class Theme {
+class ThemeStyle {
   static ThemeData themeDta() {
     return ThemeData(
       primaryColor: Colors.green,
